@@ -1,2 +1,2 @@
-import infoLayer from './infolayer';
+import infoLayer from './info-layer';
 export default infoLayer;
